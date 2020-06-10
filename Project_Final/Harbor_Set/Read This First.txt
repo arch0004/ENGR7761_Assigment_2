@@ -1,0 +1,87 @@
+Pics to play with: Izmir Harbor (HDR)
+---------------------------------------------------------
+by Klaus Herrmann (farbspiel-photo.com)
+
+
+What is 'Pics to play with'?
+----------------------------
+'Pics to play with' is a feature provided to you by farbspiel-photo.com. Every 'Pics to play with' archive contains the original source images of one of my own HDR images. 
+
+WHAT YOU ARE ALLOWED TO DO WITH THE PHOTOS
+You may download, unpack and process these images in whichever way you wish. You may publish the results online wherever you like (see 'SHARING YOUR RESULTS' below) as long as you give credit to me for the source images in the following way:
+
+'Source images copyright by Klaus Herrmann - farbspiel-photo.com - all rights reserved. Go to farbspiel-photo.com/ppw for details.'
+
+WHAT YOU ARE NOT ALLOWED TO DO WITH THE PHOTOS
+Commercial use of any type is prohibited. If you wish to use the photos commercially, please contact me at farbspiel-photo.com. You are not allowed to remove the watermark in any way. Any images that you produce and publish from the contained source photos have to contain the entire watermark. Cropping or cloning out the watermark is not allowed.
+
+DOES IT COST ANYTHING?
+No. The 'Pics to play with' service is free of charge. 
+
+
+About this 'Pics to play with' archive
+--------------------------------------
+
+This 'Pics to play with' archive is containing the source exposures of the HDR image 'Izmir (HDR)' (http://farbspiel-photo.com/view/images/izmir-harbor-hdr).
+
+IMAGE INFORMATION
+> Taken hand-held
+> Six exposures (-3, -2, -1, 0, +1, +2 ev) – semi-autobracketing
+> Camera: Nikon D7000
+> Lens: Nikon AF-S DX Nikkor 10-24mm f/3.5-4.5G ED
+> Aperture: f/11
+> ISO 100
+
+Izmir Harbor - ppw - 01.tif
+> Exposure value: +2 EV
+> Shutter speed equivalent: 1/15s
+
+Izmir Harbor - ppw - 02.tif
+> Exposure value: +1 EV
+> Shutter speed: 1/30s
+
+Izmir Harbor - ppw - 03.tif
+> Exposure value: 0 EV
+> Shutter speed: 1/60s
+
+Izmir Harbor - ppw - 04.tif
+> Exposure value: +1 EV
+> Shutter speed: 1/100s
+
+Izmir Harbor - ppw - 05.tif
+> Exposure value: +2 EV
+> Shutter speed: 1/200s
+
+Izmir Harbor - ppw - 06.tif
+> Exposure value: +3 EV
+> Shutter speed: 1/400s
+
+
+PROCESSING INFORMATION
+
+The images have been pre-processed in the following way: The original three RAW files where converted to TIFFs in Adobe Camera RAW with the default settings. Any noise reduction and sharpening was turned off.
+
+The CA (Chromatic Aberration) was removed (see http://farbspiel-photo.com/hdr-cookbook/correcting-chromatic-aberration for details). 
+
+The images where saves as TIFFs and watermarked in Photoshop. 
+
+No noise reduction or any additional processing was applied.
+
+
+PROCESSING TIPS
+
+Use the source images as you feel appropriate. It is not strictly necessary to use all of them. Visit the image page at http://farbspiel-photo.com/view/images/izmir-harbor-hdr to get information on my personal workflow for this image. It may serve as a starting point.
+
+
+ADDITIONAL RESOURCES
+
+You can find my final version at http://farbspiel-photo.com/view/images/izmir-harbor-hdr
+
+A before-and-after comparison that includes the intermediate tone-mapped image is available at http://farbspiel-photo.com/learn/hdr-before-and-after/hdr-before-and-after-izmir-harbor
+
+Take a look at my HDR Cookbook (http://farbspiel-photo.com/hdr-cookbook) for a lot of useful post-processing tips that may help you in improving your techniques.
+
+
+SHARING YOUR RESULTS
+
+Go to the flickr HDR group (http://www.flickr.com/groups/hdr/discuss/) and search for 'Pics to play with: Izmir Harbor'. You will find a discussion thread where you can share your result and see and discuss the results of others.
